@@ -30,7 +30,7 @@ version "2.68" do
   source md5: "c3b5247592ce694f7097873aa07d66fe"
 end
 
-source url: "https://ftp.gnu.org/gnu/autoconf/autoconf-#{version}.tar.gz"
+source url: "https://ftpmirror.gnu.org/gnu/autoconf/autoconf-#{version}.tar.gz"
 
 relative_path "autoconf-#{version}"
 

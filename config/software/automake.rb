@@ -30,7 +30,7 @@ version "1.11.2" do
   source md5: "79ad64a9f6e83ea98d6964cef8d8a0bc"
 end
 
-source url: "https://ftp.gnu.org/gnu/automake/automake-#{version}.tar.gz"
+source url: "https://ftpmirror.gnu.org/gnu/automake/automake-#{version}.tar.gz"
 
 relative_path "automake-#{version}"
 

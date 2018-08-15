@@ -20,7 +20,7 @@ default_version "1.4.17"
 license "GPL-3.0"
 license_file "COPYING"
 
-source url: "https://ftp.gnu.org/gnu/m4/m4-#{version}.tar.gz",
+source url: "https://ftpmirror.gnu.org/gnu/m4/m4-#{version}.tar.gz",
        md5: "a5e9954b1dae036762f7b13673a2cf76"
 
 relative_path "m4-#{version}"
